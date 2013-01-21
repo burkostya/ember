@@ -1,0 +1,13 @@
+{
+  "name": "ember",
+  "repo": "burkostya/ember",
+  "description": "A framework for creating ambitious web applications",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
