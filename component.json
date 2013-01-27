@@ -2,9 +2,12 @@
   "name": "ember",
   "repo": "burkostya/ember",
   "description": "A framework for creating ambitious web applications",
-  "version": "0.0.1",
-  "keywords": [],
-  "dependencies": {},
+  "version": "1.0.0-pre.4",
+  "keywords": ["ember"],
+  "dependencies": {
+    "burkostya/jquery": "1.9.0",
+    "burkostya/handlebars": "1.0.rc.2"
+  },
   "development": {},
   "license": "MIT",
   "scripts": [
