@@ -5,7 +5,7 @@
   "version": "1.0.0-pre.4",
   "keywords": ["ember"],
   "dependencies": {
-    "burkostya/jquery": "1.9.0",
+    "burkostya/jquery": "1.9.1",
     "burkostya/handlebars": "1.0.rc.2"
   },
   "development": {},
